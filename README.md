@@ -18,7 +18,7 @@
 <h2 align="center"><b><a href="#">Veja o Site</a></b></h2>
 <br>
 
-[![Static Badge](https://img.shields.io/badge/landing_page-site_studyflow-brown?style=for-the-badge&logo=ghost&logoColor=%238A2BE2&labelColor=white&color=8A2BE2)]
+![Static Badge](https://img.shields.io/badge/landing_page-site_studyflow-brown?style=for-the-badge&logo=ghost&logoColor=%238A2BE2&labelColor=white&color=8A2BE2)
 <br>
 <br>
 
