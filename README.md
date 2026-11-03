@@ -1,7 +1,7 @@
 <h1 align="center">Boas-vidas ao projeto StudyFlow!📚</h1>
 <br>
 <div align="center"> 
-  <img src="src/assets/alura-imersoes.jpg">
+  <img alt="imersões alura" src="src/assets/alura-imersoes.jpg">
   <strong>
       Criação do StudyFlow, uma aplicação simples para ajudar estudantes iniciantes a organizar objetivos de estudo.  
   </strong>
@@ -9,7 +9,7 @@
 
 ## Conheça o Projeto 
 <p align="center">
-  <img alt="alura-imersoes" src="src/assets/image-studyflow.jpg" width="100%">
+  <img alt="imagem do aplicativo StudyFlow" src="src/assets/image-studyflow.jpg" width="100%">
 </p>
 <br>
 <h2 align="center"><b><a href="#">Veja o Site</a></b></h2>
