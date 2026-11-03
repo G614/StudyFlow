@@ -17,7 +17,6 @@
 ![Static Badge](https://img.shields.io/badge/landing_page-site_studyflow-brown?style=for-the-badge&logo=ghost&logoColor=%23573A37&labelColor=white&color=573A37)
 <br>
 <br>
-<h2 align="center"><b><a href="#">Veja o Site</a></b></h2>
 
 ## Tabela de Conteúdos
 
