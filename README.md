@@ -6,19 +6,25 @@
       Criação do StudyFlow, uma aplicação simples para ajudar estudantes iniciantes a organizar objetivos de estudo.  
   </strong>
 </div>
+<br>
 
 ## Conheça o Projeto 
+
+<br>
 <p align="center">
   <img alt="imagem do aplicativo StudyFlow" src="src/assets/image-studyflow.jpg" width="100%">
 </p>
 <br>
 <h2 align="center"><b><a href="#">Veja o Site</a></b></h2>
 <br>
-![Static Badge](https://img.shields.io/badge/landing_page-site_studyflow-brown?style=for-the-badge&logo=ghost&logoColor=%23573A37&labelColor=white&color=573A37)
+
+[![Static Badge](https://img.shields.io/badge/landing_page-site_studyflow-brown?style=for-the-badge&logo=ghost&logoColor=%238A2BE2&labelColor=white&color=8A2BE2)]
 <br>
 <br>
 
 ## Tabela de Conteúdos
+
+<br>
 
 * [Sobre](#-sobre)
 * [Tecnologias utilizadas](#️-tecnologias-utilizadas)
@@ -28,11 +34,16 @@
 * [Autor](#-autor)
 * [Status do Projeto](#-status-do-projeto)
 * [Licença](#-licença)
+<br>
+<br>
 
 ## 📕 Sobre
 
+<br>
 Foi construida uma aplicação com Inteligência Artificial chamada StudyFlow! Usando uma ferramenta, o Google AI Studio descobrindo como sair de uma ideia e chegar a uma aplicação 
 web funcionando em poucos minutos, usando apenas uma conta Google e prompts bem estruturados.
+<br>
+<br>
 
 ## 👦🖥️ Tecnologias utilizadas
 
@@ -50,6 +61,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Servidor**
 - [NodeJS](https://nodejs.org/pt-br)
 - [Vite](https://vite.dev/)
+<br>
+<br>
 
 ## Pré-requisitos e como rodar a aplicação/testes
 
@@ -94,25 +107,50 @@ http://localhost:3000
 
 # Pronto! O StudyFlow estará funcionando perfeitamente.
 ```
+<br>
+
 
 ## Comandos Úteis
 
-**Comando**	                  **O que faz**
-
-npm run dev	                  Inicia o servidor local para você testar e programar em tempo real.
-
-npm run build	                Cria a pasta otimizada dist para publicação em produção.
-
-npm run preview	              Testa localmente o build gerado em produção.
-
-npm run lint	                Valida se há algum erro de tipagem no TypeScript.
-
-Ctrl + C (no terminal)	      Encerra o servidor de desenvolvimento.
+<br>
+    <table>
+      <thead>
+        <tr>
+          <th>Comando</th>
+          <th>O que faz</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>npm run dev</td>
+          <td>Inicia o servidor local para você testar e programar em tempo real.</td>
+        </tr>
+        <tr>
+          <td>npm run build</td>
+          <td>Cria a pasta otimizada dist para publicação em produção.</td>
+        </tr>
+        <tr>
+          <td>npm run preview</td>
+          <td>Testa localmente o build gerado em produção.</td>
+        </tr>
+        <tr>
+          <td>npm run lint</td>
+          <td>Valida se há algum erro de tipagem no TypeScript.</td>
+        </tr>
+        <tr>
+          <td>Ctrl + C (no terminal)</td>
+          <td>Encerra o servidor de desenvolvimento.</td>
+        </tr>
+      </tbody>
+    </table>
+<br>
 
 ## 💡 Dicas Importantes:
 - **Persistência de Dados:** Como esta primeira versão utiliza o **LocalStorage**, os objetivos que você cadastrar ficarão salvos no próprio navegador da sua máquina. Mesmo se reiniciar o computador ou fechar o terminal, seus dados continuarão lá ao reabrir **http://localhost:3000**.
 
 - **Porta em uso:** Se a porta 3000 já estiver sendo utilizada por outro programa, você pode alterar a porta temporariamente rodando **npx vite --port 5173** ou ajustando o script **"dev"** no arquivo **package.json**.
+<br>
+<br>
 
 ## 🧑‍🏫 Autor
 
@@ -127,12 +165,16 @@ Ctrl + C (no terminal)	      Encerra o servidor de desenvolvimento.
 ![Static Badge](https://img.shields.io/badge/Gmail-gb.30ribeiro%40gmail-red?style=flat&logo=Gmail&logoColor=white&labelColor=red&color=gray&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fogbl%23inbox) 
 ![Static Badge](https://img.shields.io/badge/Facebook-gabriel.bisporibeiro.56-blue?style=flat&logo=Facebook&logoColor=white&labelColor=blue&color=gray&link=https%3A%2F%2Fwww.facebook.com%2Fgabriel.bisporibeiro.56%2F) 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-gbrmaster-black?style=flat&logo=Linkedin&logoColor=white&labelColor=black&color=gray&link=www.linkedin.com%2Fin%2Fgbrmaster)
+<br>
+<br>
 
 ## 📊 Status do Projeto
 
 <h3 align="center">
 	<b>🚧  React Select 🚀 Em construção...  🚧<b>
 </h3>
+<br>
+<br>
 
 ## 📜 Licença
 <br>
