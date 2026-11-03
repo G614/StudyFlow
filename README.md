@@ -57,6 +57,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
 - [React](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started)
+- [Tailwindcss](https://tailwindcss.com/)
 
 **Servidor**
 - [NodeJS](https://nodejs.org/pt-br)
@@ -71,7 +72,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta
 [Git](https://git-scm.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
-Para esse repositório é recomendado utilizar o [Antigravity IDE](https://antigravity.google/product/antigravity-ide)
+Para esse repositório é recomendado utilizar o [Antigravity IDE](https://antigravity.google/product/antigravity-ide).
+Essa aplicação foi criada com a ferramenta [Google AI Studio](https://aistudio.google.com/apps), com o auxílio da AI do Google. 
 
 ### 1. Node.js instalado:
 Recomenda-se a versão 18.x, 20.x ou superior (LTS).
