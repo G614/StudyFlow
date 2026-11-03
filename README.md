@@ -9,7 +9,7 @@
 
 ## Conheça o Projeto 
 <p align="center">
-  <img alt="alura-imersoes" src=".github/project.png" width="100%">
+  <img alt="alura-imersoes" src="src/assets/image-studyflow.jpg" width="100%">
 </p>
 <br>
 <h2 align="center"><b><a href="#">Veja o Site</a></b></h2>
